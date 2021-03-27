@@ -24,6 +24,8 @@ remotes::install_github("cathblatter/instmplts")
 
 ## How to use it?
 
+![](vignettes/setup.gif)
+
 After installing the package you will have access to the
 Rmarkdown-Templates.
 
