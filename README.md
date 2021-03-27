@@ -34,4 +34,4 @@ Rmarkdown-Templates.
 
 ### Short vid
 
-![](vignettes/setup.gif)
+![](vignettes/kapsetup.gif)

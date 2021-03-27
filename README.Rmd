@@ -44,6 +44,6 @@ After installing the package you will have access to the Rmarkdown-Templates.
 
 ### Short vid
 
-![](vignettes/setup.gif)
+![](vignettes/kapsetup.gif)
 
 
