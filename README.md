@@ -24,8 +24,6 @@ remotes::install_github("cathblatter/instmplts")
 
 ## How to use it?
 
-![](vignettes/setup.gif)
-
 After installing the package you will have access to the
 Rmarkdown-Templates.
 
@@ -33,3 +31,7 @@ Rmarkdown-Templates.
 
 2.  Under “From Template” select the “Report UStaR2”. You need to choose
     the directory to place the report.
+
+### Short vid
+
+![](vignettes/setup.gif)
