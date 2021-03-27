@@ -1,0 +1,4 @@
+name: "Report UStar2"
+description: >
+   This is the template to use for the report in Statistics 2
+create_dir: TRUE

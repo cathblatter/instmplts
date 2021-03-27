@@ -1,0 +1,19 @@
+Package: instmplts
+Type: Package
+Title: Rmarkdown-Templates for Institute of Nursing Science @University of Basel
+Version: 0.0.1
+Authors@R: c(person("Catherine", 
+                    "Blatter",
+                    email = "catherine.blatter@unibas.ch",
+                    role = c("aut", "cre"),
+                    comment = c(ORCID = "0000-0002-4069-7178")))
+Description: The package holds Rmarkdown-templates for the student reports of
+    the statistic courses at INS.
+License: GPL-3
+Imports: 
+  ggplot2,
+  rmarkdown,
+  psych
+Encoding: UTF-8
+LazyData: true
+RoxygenNote: 7.1.1
